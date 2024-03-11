@@ -1,6 +1,9 @@
 # PCA: EXP-1  SUM ARRAY GPU
+
 ELAMARAN S E
+
 212222230036
+
 EX.NO.1
 
 PCA-GPU-based-vector-summation.-Explore-the-differences.
